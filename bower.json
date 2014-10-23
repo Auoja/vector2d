@@ -1,0 +1,18 @@
+{
+  "name": "vector2d",
+  "main": "vec2d.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Auoja/vector2d.git",
+  "authors": [
+    "Anton Auoja <antonauoja@gmail.com>"
+  ],
+  "description": "JavaScript 2D Vector",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "demo"
+  ]
+}
